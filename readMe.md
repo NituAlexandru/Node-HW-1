@@ -48,10 +48,10 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 # Ștergerea unui contact
 node index.js --action remove --id=3
 
-![Contact Deleted](https://ibb.co/zV4dJgL)
-![Table List](https://ibb.co/tQXypC3)
-![Get List Item by Id](https://ibb.co/H7cbXRd)
-![Add Contact](https://ibb.co/bRxZSYH)
+![Contact Deleted](https://i.ibb.co/ZzM9mrw/table-delete-by-ID.png)
+![Table List](https://i.ibb.co/rFsn2yv/table-list.png)
+![Get List Item by Id](https://i.ibb.co/nrXYR4C/Table-get-id.png)
+![Add Contact](https://i.ibb.co/DgNyxmG/Table-add-contact.png)
 
 
 
